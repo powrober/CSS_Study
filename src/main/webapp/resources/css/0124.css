@@ -19,6 +19,7 @@ img
 {
 	max-width:100%;
 	border-radius: 50%;
+	cursor: pointer;
 }
 
 .msg-header
@@ -171,8 +172,8 @@ img
 
 .msg-bottom
 {
-	position : relative;
-	height : 10%;
+    position : relative;
+	height : 70px;
 	background-color: #007bff;
 }
 
@@ -187,13 +188,47 @@ img
 	background-color: #fff;
 }
 
+.form-control
+{
+	border: none !important;
+	border-radius: 20px !important; 
+}
 
+.input-group-text
+{
+	background : transparent !important;
+	border:  none !important;
+	cursor: pointer;
+	
+}
 
+.input-group .fa
+{
+	color: #007bff;
+	float: center;
+}
 
+.bottom-icons
+{
+	float: left;
+	margin-top: 17px;
+	width: 30% !important;
+	margin-left: 22px;
+	cursor: pointer;
+}
 
+.bottom-icons  .fa
+{
+	color: #fff;
+	padding: 5px;
+}
 
-
-
+.form-control:focus
+{
+	bodr-color: none !important;
+	box-shadow: none !important;
+	border-radius: 20px;
+}
 
 
 
