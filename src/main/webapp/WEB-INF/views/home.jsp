@@ -10,7 +10,9 @@
 // 01.23. 연습 1
 <%-- <jsp:forward page="Drop_down_Menu.jsp"></jsp:forward> --%>
 // 01.24 연습 2 
-<jsp:forward page="Message_Box.jsp"></jsp:forward> 
+<%-- <jsp:forward page="Message_Box.jsp"></jsp:forward> --%>
+// 01.25 연습 3
+<jsp:forward page="Contact_Form.jsp"></jsp:forward>
 
 </body>
 </html>

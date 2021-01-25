@@ -95,20 +95,20 @@
 		</div>
 
 		<div class="msg-bottom">
-			<div class="bottom-icons">
-					<i class="fa fa-plus-circle"></i>
-					<i class="fa fa-camera"></i>
-					<i class="fa fa-microphone"></i>
-					<i class="fa fa-smile-o"></i>
-			</div>
-			<div class="input-group">
-				<input type="text" class="form-control" placeholder="write massage...">
-					<div class="input-group-append">
-						<span class="input-group-text">
-							<i class="fa fa-paper-plane"></i>
-						</span>
-					</div>
-			</div>
+				<div class="bottom-icons">
+						<i class="fa fa-plus-circle"></i>
+						<i class="fa fa-camera"></i>
+						<i class="fa fa-microphone"></i>
+						<i class="fa fa-smile-o"></i>
+				</div>
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="write massage...">
+						<div class="input-group-append">
+							<span class="input-group-text">
+								<i class="fa fa-paper-plane"></i>
+							</span>
+						</div>
+				</div>
 		</div>		
 		
 		</div>
