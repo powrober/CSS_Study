@@ -12,7 +12,9 @@
 // 01.24 연습 2 
 <%-- <jsp:forward page="Message_Box.jsp"></jsp:forward> --%>
 // 01.25 연습 3
-<jsp:forward page="Contact_Form.jsp"></jsp:forward>
+<%-- <jsp:forward page="Contact_Form.jsp"></jsp:forward> --%>
+// 01.27 연습 4
+<jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward>
 
 </body>
 </html>
