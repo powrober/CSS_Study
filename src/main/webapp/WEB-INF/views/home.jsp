@@ -14,7 +14,9 @@
 // 01.25 연습 3
 <%-- <jsp:forward page="Contact_Form.jsp"></jsp:forward> --%>
 // 01.27 연습 4
-<jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward>
+<%-- <jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward> --%>
+// 01.28 연습 5
+<jsp:forward page="Neon_Effect.jsp"></jsp:forward>
 
 </body>
 </html>
