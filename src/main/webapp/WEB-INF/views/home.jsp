@@ -17,8 +17,10 @@
 <jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward> --%>
 <%-- // 01.28 연습 5
 <jsp:forward page="Neon_Effect.jsp"></jsp:forward> --%>
-// 01.31 연습 6
-<jsp:forward page="Hover_Effect.jsp"></jsp:forward>
+<%-- // 01.31 연습 6
+<jsp:forward page="Hover_Effect.jsp"></jsp:forward> --%>
+// 2.1 연습 7
+<jsp:forward page="Music_Website.jsp"></jsp:forward>
 
 </body>
 </html>
